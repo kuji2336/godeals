@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.799" height="47" viewBox="0 0 122.799 47">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.41" y1="2.477" x2="1.735" y2="-2.695" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c6061e"/>
+      <stop offset="1" stop-color="#f40342"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.773" y1="2.103" x2="1.281" y2="-0.483" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_4460" data-name="Group 4460" transform="translate(14.036 199.276)">
+    <g id="Group_4458" data-name="Group 4458" transform="translate(-13.573 -163.27)">
+      <path id="Path_1919" data-name="Path 1919" d="M-2.984-147.679a11.013,11.013,0,0,1-10.374-7.352,2.745,2.745,0,0,1,2.6-3.641h0a2.745,2.745,0,0,1,2.589,1.829,5.505,5.505,0,0,0,5.184,3.668A5.507,5.507,0,0,0,2.2-156.844a2.744,2.744,0,0,1,2.589-1.829h0a2.745,2.745,0,0,1,2.6,3.641A11.012,11.012,0,0,1-2.984-147.679Z" transform="translate(13.514 158.673)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="goDeals" transform="translate(19.763 -173.276)" fill="#e70438" font-size="24" font-family="Kanit-Medium, Kanit" font-weight="500"><tspan x="0" y="0">goDeals</tspan></text>
+    <text id="იპოვე_ფასდაკლებები" data-name="იპოვე ფასდაკლებები" transform="translate(19.763 -157.875)" fill="#5b5b5b" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">იპოვე ფასდაკლებები</tspan></text>
+    <g id="Group_4459" data-name="Group 4459" transform="translate(-14.036 -189.285)">
+      <path id="Path_1920" data-name="Path 1920" d="M7.949-188.01H-3.043a11.006,11.006,0,0,0-10.993,10.994A11.005,11.005,0,0,0-3.043-166.024,11.005,11.005,0,0,0,7.949-177.016a10.959,10.959,0,0,0-3.223-7.77ZM-7-183.071a2.093,2.093,0,0,1,2.093,2.093A2.092,2.092,0,0,1-7-178.885,2.092,2.092,0,0,1-9.1-180.978,2.093,2.093,0,0,1-7-183.071ZM.917-170.963a2.093,2.093,0,0,1-2.093-2.093,2.093,2.093,0,0,1,2.093-2.093,2.093,2.093,0,0,1,2.093,2.093A2.093,2.093,0,0,1,.917-170.963Zm1.61-9.3-8.813,8.813a1.641,1.641,0,0,1-1.164.482,1.64,1.64,0,0,1-1.164-.482,1.645,1.645,0,0,1,0-2.329L.2-182.588a1.647,1.647,0,0,1,2.329,0A1.646,1.646,0,0,1,2.528-180.259Z" transform="translate(14.036 188.01)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
